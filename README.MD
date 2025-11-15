@@ -12,7 +12,7 @@
 
 ---
 
-## ⭐ Project Goal: [Insert Project Title Here]
+## ⭐ Project Goal: Data Engineer 
 
 This repository contains a full-stack data engineering project, designed to demonstrate proficiency across the **Data Engineering Lifecycle**. The project is aligned with the core concepts outlined in the official **Data Engineer Roadmap** (See: [https://roadmap.sh/data-engineer](https://roadmap.sh/data-engineer)).
 
