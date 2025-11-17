@@ -101,5 +101,5 @@ The project is structured around a multi-stage **ETL/ELT process**:
 This project is a detailed implementation of the **Data Engineer Roadmap**.
 
 * **Roadmap Source:** [https://roadmap.sh/data-engineer](https://roadmap.sh/data-engineer)
-* **Your GitHub:** [nveyounes](https://github.com/nveyounes)
+* **GitHub:** [nveyounes](https://github.com/nveyounes)
 * **License:** [MIT License / Apache 2.0 License / etc.]
