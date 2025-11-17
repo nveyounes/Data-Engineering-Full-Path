@@ -4,7 +4,7 @@
 
 | Status | Focus Area | Technologies | Roadmap Stage |
 | :--- | :--- | :--- | :--- |
-| **Complete** | ETL/ELT Pipeline | Python, SQL, Cloud Service (Placeholder) | **Full Data Engineer Path** |
+| **Complete** | ETL/ELT Pipeline | Python, SQL, Cloud Service | **Full Data Engineer Path** |
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nveyounes/Data-Engineering-Full-Path?style=for-the-badge&color=e74c3c)](https://github.com/nveyounes/Data-Engineering-Full-Path)
 [![Roadmap Reference](https://img.shields.io/badge/Data%20Engineer%20Roadmap-View%20Source-ffaa00?style=for-the-badge&logo=github)](https://roadmap.sh/data-engineer)
